@@ -1,10 +1,13 @@
 # Terrarium 2024-A
+
 ![Terrarium Image](./imagenes/terrarium_banner.jpg)
 
 ## Descripción
+
 Proyecto terrarium para Programación Web TecNM/ITGAM
 
-## Autor
+## Auto
+
 <img
     style="border: teal 5px double; display: block; margin left: auto; margin-right: auto;"
     src="https://avatars.githubusercontent.com/u/159492890?v=4"
